@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ne4/CLionProjects/TestTaskCamera/cmake-build-debug",
+  "command": "/usr/bin/c++ -isystem /usr/include/opencv4 -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/TestTaskCamera.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/TestTaskCamera.dir/main.cpp.o -c /home/ne4/CLionProjects/TestTaskCamera/main.cpp",
+  "file": "/home/ne4/CLionProjects/TestTaskCamera/main.cpp",
+  "output": "/home/ne4/CLionProjects/TestTaskCamera/cmake-build-debug/CMakeFiles/TestTaskCamera.dir/main.cpp.o"
+}
+]

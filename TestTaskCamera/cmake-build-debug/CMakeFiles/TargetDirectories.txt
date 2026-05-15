@@ -1,0 +1,3 @@
+/home/ne4/CLionProjects/TestTaskCamera/cmake-build-debug/CMakeFiles/TestTaskCamera.dir
+/home/ne4/CLionProjects/TestTaskCamera/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ne4/CLionProjects/TestTaskCamera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
